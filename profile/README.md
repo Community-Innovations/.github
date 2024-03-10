@@ -1,7 +1,5 @@
 # Community Innovations
 
-<img src="https://pseudonymousnetworks.io/src_content/media/ab7c9d/communityinnovations.png" width="300">
-
 Community Innovations is an organization that was founded with the main goal of creating a network of developers who are passionate about coding and willing to collaborate to create the best products possible. We focus on maintaining and reviving unmaintained repositories of projects that have a great use case and creating new projects that we believe are necessary and beneficial to the community.
 
 ## Our Mission
