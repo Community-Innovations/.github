@@ -16,4 +16,4 @@ If you are a developer who shares these values and wants to build a more connect
 
 ## Contact Us
 
-For any inquiries, please reach out to us at contact@pseudonymousnetworks.io.
+For any inquiries, please reach out to us at contact@pseudonymousnetworks.io
