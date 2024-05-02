@@ -10,7 +10,7 @@ We aim to provide a platform where developers can share their expertise, collabo
 
 If you are a developer who shares these values and wants to build a more connected and creative open source ecosystem, we invite you to join our mission. 
 
-[Comming Soon]
+[Coming Soon]
 
 ## Contact Us
 
